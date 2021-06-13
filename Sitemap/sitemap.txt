@@ -1,0 +1,5 @@
+www.google.com/index.html
+www.google.com/menu.html
+www.google.com/gallery.html
+www.google.com/team.html
+
